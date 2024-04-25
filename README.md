@@ -1,6 +1,8 @@
 Screenshot Output Program:
 ![image](https://github.com/raihanaidiyasa/utsprakpbo/assets/119490191/631c79ad-e024-4820-ba18-84c9754124de)
 
+
+
 Penjelasan
 1. Enkapsulasi: Atribut warna dan jumlahRoda pada class Mobil. Atribut ini bersifat private dan memiliki getter untuk memenuhi Konsep Enkapsulasi.
 2. Inheritance: Kode ini memiliki class Mobil sebagai superclass dan class Toyota sebagai subclassnya.
